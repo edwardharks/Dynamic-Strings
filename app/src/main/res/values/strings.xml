@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="set_text_xml">Default</string>
+    <string name="set_text_id">Default</string>
+    <string name="set_text_get_string">Default</string>
+    <string name="set_text_get_string_formatted">Default %s</string>
+</resources>

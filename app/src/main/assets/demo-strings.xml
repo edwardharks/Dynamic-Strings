@@ -1,0 +1,6 @@
+<resources>
+    <string name="set_text_xml">Text set in xml</string>
+    <string name="set_text_id">Test set using setText(resId)</string>
+    <string name="set_text_get_string">Text set using getString(resId)</string>
+    <string name="set_text_get_string_formatted">Text set using getString(resId, %s)</string>
+</resources>
